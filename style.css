@@ -1,0 +1,13 @@
+nav {
+  background-color: lightblue;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: blue;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}
